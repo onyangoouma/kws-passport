@@ -1,0 +1,3 @@
+class UserPark < ApplicationRecord
+    
+end
