@@ -18,7 +18,8 @@ class BucketListParksController < ApplicationController
          bucket_list_park.destroy
          head :no_content
      end
- 
+
+
      private 
  
      def bucket_list_park_params
