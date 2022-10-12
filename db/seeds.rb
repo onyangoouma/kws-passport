@@ -7,7 +7,7 @@
 #   Character.create(name: "Luke", movie: movies.first)
 
 BucketListPark.create([
-    {
+    {POST
           name: "Ngong Hills",
           activities: "Hiking, ziplinning",
           county: "Kajiado",

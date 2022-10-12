@@ -1,8 +1,8 @@
 class UserParksController < ApplicationController
     #Read/user_parks
     def index
-        user_parks = UserPark.all
-        render json: user_parks, status: ok
+        userpark = UserPark.all
+        render json: userpark
     end
 
     #POST/user_parks
