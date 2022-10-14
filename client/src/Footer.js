@@ -6,7 +6,7 @@ function Footer() {
   return (
     <Box sx={{ bgcolor: "background.paper", p: 6 }} component="footer">
       <Typography id="footer-title" variant="h6" align="center" gutterBottom>
-        Kenya National Park Passport
+        Kenya Wildlife Service Park Passport
       </Typography>
       <Typography
         id="footer-text"
